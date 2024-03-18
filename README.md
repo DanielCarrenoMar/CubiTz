@@ -1,4 +1,4 @@
-![Logotipo](https://github.com/DanielCarrenoMar/CubiTz/assets/144462396/f673494d-f016-4eb2-bbd1-7abf1c196fbc)
+![logo](https://github.com/DanielCarrenoMar/CubiTz/assets/144462396/c8ff78f5-51e9-4f2b-9d5e-5663b88d2081)
 
 Un grupo de estudiantes de la [UCAB](https://www.ucab.edu.ve) que se divierten creando proyectos variados y compartiéndolos con el mundo.
 
