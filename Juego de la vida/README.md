@@ -1,5 +1,5 @@
 <a>
-    <img src="https://github.com/DanielCarrenoMar/CubiTz/assets/144462396/f673494d-f016-4eb2-bbd1-7abf1c196fbc" alt="CubiTz logo" title="CubiTz" align="right" height="60" />
+    <img src="https://github.com/DanielCarrenoMar/CubiTz/assets/144462396/c8ff78f5-51e9-4f2b-9d5e-5663b88d2081" alt="CubiTz logo" title="CubiTz" align="right" height="60" />
 </a>
 
 # ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) Juego de la vida Conway 
